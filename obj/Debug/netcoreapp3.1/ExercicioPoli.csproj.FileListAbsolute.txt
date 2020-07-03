@@ -1,0 +1,13 @@
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli.deps.json
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli.runtimeconfig.json
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli.runtimeconfig.dev.json
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli.dll
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/bin/Debug/netcoreapp3.1/ExercicioPoli.pdb
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.csprojAssemblyReference.cache
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.AssemblyInfoInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.AssemblyInfo.cs
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.csproj.CoreCompileInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.dll
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.pdb
+/home/jujuneos/Área de Trabalho/Studying/ExercicioPoli/obj/Debug/netcoreapp3.1/ExercicioPoli.genruntimeconfig.cache
